@@ -9,10 +9,9 @@
   <a href="https://www.linkedin.com/in/khushbu-saifi-2b753b311/">💼 LinkedIn</a>
 </p>
 
+<!--About me--->
 - 👀 I’m interested in exploring Python, software development. I’m passionate about solving real-world problems through technology.
-- 🌱 I’m currently learning Flask,Django,advanced Python concepts, and diving into frontend design to build interactive web applications.
-- 📫 How to reach me: You can email me at khushbusaifi27@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/).
-- 😄 Pronouns: She/Her
+- 🌱 I’m currently learning Django,advanced Python concepts, and diving into frontend design to build interactive web applications.
 - ⚡ Fun fact: I balance coding with creative activities and enjoy participating in community events like PyDelhi meetups!
 
 
