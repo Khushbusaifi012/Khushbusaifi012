@@ -14,6 +14,8 @@
 - 🌱 I’m currently learning Django,advanced Python concepts, and diving into frontend design to build interactive web applications.
 - ⚡ Fun fact: I balance coding with creative activities and enjoy participating in community events like PyDelhi meetups!
 
+<!---Software and technologies-->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 <!---
 Khushbusaifi012/Khushbusaifi012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
