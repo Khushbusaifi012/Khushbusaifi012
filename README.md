@@ -4,7 +4,7 @@
 
 <!-- Contact/Links -->
 <p align="center">
-  <a href="https://khushbusaifi.netlify.app/">🌐 Website</a> •
+  <a href="https://khushbusaifi.netlify.app/">🌐Website</a> •
   <a href="https://www.linkedin.com/in/khushbu-saifi-2b753b311/">💼 LinkedIn</a>
 </p>
 
