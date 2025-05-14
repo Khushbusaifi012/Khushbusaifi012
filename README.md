@@ -1,6 +1,6 @@
 <!-- Banner section -->
 <h1 align="center">👋 Hey, I’m Khushbu!</h1>
-<h3 align="center">Python Developer</h3>
+<h3 align="center">Tech Enthusiast</h3>
 
 <!-- Contact/Links -->
 <p align="center">
