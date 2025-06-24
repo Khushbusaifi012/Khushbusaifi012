@@ -15,6 +15,7 @@
 - 🤝 Actively involved in volunteering for @pydelhi.
 
 <!---Software and technologies-->
+Tech stack and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/-DRF-FF1709?style=flat&logo=django&logoColor=white)
