@@ -10,7 +10,7 @@
 
 <!--About me--->
 - 👀 I’m interested in exploring Python, Software development, Web Development.
-- 🌱 I’m currently working in Django, advanced Python concepts,DRF and diving into frontend design to build interactive web applications.
+- 🌱 I’m currently working in Django, advanced Python concepts,DRF and created into frontend design to build interactive web applications.
 - ⚡ Fun fact: I balance coding with creative activities and enjoy participating in community events like PyDelhi meetups!
 - 🤝 Actively involved in volunteering for @pydelhi.
 
