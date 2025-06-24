@@ -33,4 +33,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-0A1128?style=flat&logo=pydantic&logoColor=white)
 
+### 🏆 GitHub Trophies:
+<img src="https://github-trophies.vercel.app/?username=Khushbusaifi012&theme=onestar&no-frame=true" width="800"/>
+
 
