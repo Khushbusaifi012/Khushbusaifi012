@@ -33,6 +33,8 @@ Tech stack and Tools:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-0A1128?style=flat&logo=pydantic&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
+
 
 ### 🏆 GitHub Trophies:
 <img src="https://github-trophies.vercel.app/?username=Khushbusaifi012&theme=onestar&no-frame=true" width="800"/>
