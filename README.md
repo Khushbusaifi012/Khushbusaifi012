@@ -34,6 +34,8 @@ Tech stack and Tools:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-0A1128?style=flat&logo=pydantic&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
 
 
 ### 🏆 GitHub Trophies:
