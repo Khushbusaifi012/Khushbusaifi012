@@ -4,13 +4,13 @@
 
 <!-- Contact/Links -->
 <p align="center">
-  <a href="https://khushbusaifi.netlify.app/">🌐Website</a> •
+  <a href="https://khushbusaifi.netlify.app/">🌐Portfolio</a> •
   <a href="https://www.linkedin.com/in/khushbu-saifi-2b753b311/">💼 LinkedIn</a>
 </p>
 
 <!--About me--->
 - 👀 I’m interested in exploring Python, Software development, Web Development.
-- 🌱 I’m currently working in Django, advanced Python concepts,DRF and created into frontend design to build interactive web applications.
+- 🌱 I’m currently working in Django, advanced Python concepts,DRF and FastAPI created into frontend design to build interactive web applications.
 - ⚡ Fun fact: I balance coding with creative activities and enjoy participating in community events like PyDelhi meetups!
 - 🤝 Actively involved in volunteering for @pydelhi.
 
