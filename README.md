@@ -41,4 +41,8 @@ Tech stack and Tools:
 ### 🏆 GitHub Trophies:
 <img src="https://github-trophies.vercel.app/?username=Khushbusaifi012&theme=onestar&no-frame=true" width="800"/>
 
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushbusaifi012&theme=onedark" />
+</p>
 
