@@ -10,7 +10,7 @@
 
 <!--About me--->
 - 👀 I’m interested in exploring Python, Software development, Web Development.
-- 🌱 I’m currently working in Django, advanced Python concepts,DRF and FastAPI created into frontend design to build interactive web applications.
+- I’m currently working with Django, advanced Python concepts, DRF, and FastAPI — along with frontend design to build interactive web applications.
 - ⚡ Fun fact: I balance coding with creative activities and enjoy participating in community events like PyDelhi meetups!
 - 🤝 Actively involved in volunteering for @pydelhi.
 
@@ -40,9 +40,4 @@ Tech stack and Tools:
 
 ### 🏆 GitHub Trophies:
 <img src="https://github-trophies.vercel.app/?username=Khushbusaifi012&theme=onestar&no-frame=true" width="800"/>
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushbusaifi012&theme=onedark" />
-</p>
 
