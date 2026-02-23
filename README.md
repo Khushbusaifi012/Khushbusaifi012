@@ -46,3 +46,14 @@
 ### 🏆 GitHub Trophies:
 <img src="https://github-trophies.vercel.app/?username=Khushbusaifi012&theme=onestar&no-frame=true" width="800"/>
 
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khushbusaifi012&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushbusaifi012&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+### 🔥 GitHub Streak:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Khushbusaifi012&theme=tokyonight"/>
+</p>
+
