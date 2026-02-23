@@ -56,9 +56,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushbusaifi012&theme=tokyo-night" />
 </p>
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khushbusaifi012&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushbusaifi012&layout=compact&theme=tokyonight" height="180"/>
-</p>
+
 
