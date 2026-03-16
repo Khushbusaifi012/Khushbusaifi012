@@ -11,7 +11,7 @@
 <!--About me--->
 - I’m interested in exploring Python, Software development, Web Development.
 - I’m currently working with Django, advanced Python concepts, DRF and FastAPI — along with frontend design to build interactive web applications.
-- ⚡ Fun fact: I balance coding with creative activities and enjoy participating in community events like PyDelhi meetups!
+- ⚡ Fun fact : I balance coding with creative activities and enjoy participating in community events like PyDelhi meetups!
 - 🤝 Actively Involved in Volunteering for @pydelhi.
 
 <!--- Tech Stack Section with Colorful Badges --->
