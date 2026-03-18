@@ -1,5 +1,5 @@
 <!-- Banner section -->
-<h1 align="center">👋 Hey, I’m Khushbu!</h1>
+<h1 align="center">👋 Hey,I’m Khushbu!</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <!-- Contact/Links -->
